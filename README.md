@@ -43,7 +43,7 @@ Distribusi per platform: Facebook 325 postingan (230 akun), Instagram 273 (165 a
 1. Postingan publik dikumpulkan lewat pencarian media sosial pada 4 November 2026 dengan banyak set kata kunci: testimoni hijrah, manhaj salaf, nama-nama ustadz sunnah, meninggalkan bid'ah dan riba, resign pekerjaan haram, kuburiyyun dan tawassul, ngalap berkah habib dan gus, haul, tahlilan, yasinan, selamatan, dan maulid.
 2. Hasil digabung, diduplikasi dibuang berdasarkan URL, lalu disaring relevansinya satu per satu. Postingan di luar tema dibuang dan jumlahnya dicatat di dokumen ringkasan.
 3. Setiap postingan diberi satu label kategori topik dan satu label sentimen berdasarkan isinya.
-4. Tiga akun yang diminta khusus ikut diperiksa postingannya dengan saringan yang sama: @andikzaa_ (2 postingan lolos), @mufy.thalib (17 postingan lolos), @farhancaesario (0 postingan lolos).
+
 
 Dokumen metode dan statistik lengkap ada di [`docs/ringkasan_analisis.md`](docs/ringkasan_analisis.md).
 
